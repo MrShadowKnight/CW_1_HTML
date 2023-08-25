@@ -1,0 +1,22 @@
+h1{
+    color: rgb(255, 0, 0);
+    text-transform: lowercase;
+}
+#header2{
+    color: rgb(38, 199, 199);
+    text-transform: none;
+}
+#header3{
+    color: rgb(0, 0, 231);
+    text-transform: uppercase;
+}
+.head{
+    font-style: italic;
+}
+.bg{
+    background-color: rgb(255, 98, 0);
+}
+body{
+    margin: 0;
+    padding: 0;
+}
